@@ -291,7 +291,7 @@ header#header.sticky-header {
 }
 /*Slider Style*/
 .slider-bg{
-    background-image: url(assets/images/slider-bg.jpg);
+    background-image: url(https://makepositive.com/wp-content/uploads/2022/03/slider-bg.jpg);
 }
 .slider-bg {
     height: 568px;
@@ -727,7 +727,7 @@ img.shape-bottom {
 }
 /*Pricing Table Styles*/
 .pricing-head{
-    background-image: url(assets/images/pricing-bg.jpg);
+    background-image: url(https://makepositive.com/wp-content/uploads/2022/03/pricing-bg.jpg);
     padding: 30px;
     background-size: cover;
     background-position: center;
@@ -823,13 +823,13 @@ img.shape-bottom {
     height: 255px;
 }
 .blog-bg-1{
-    background-image: url(assets/images/blog-1.jpg);
+    background-image: url(https://makepositive.com/wp-content/uploads/2022/03/blog-1.jpg);
 }
 .blog-bg-2{
-    background-image: url(assets/images/blog-2.jpg);
+    background-image: url(https://makepositive.com/wp-content/uploads/2022/03/blog-2.jpg);
 }
 .blog-bg-3{
-    background-image: url(assets/images/blog-3.jpg);
+    background-image: url(https://makepositive.com/wp-content/uploads/2022/03/blog-3.jpg);
 }
 .blog-item {
     border: 1px solid #dde4f2;
@@ -874,7 +874,7 @@ img.shape-bottom {
 }
 /*CTA Style*/
 .cta-area{
-    background-image: url(assets/images/cta-bg.jpg);
+    background-image: url(https://makepositive.com/wp-content/uploads/2022/03/cta-bg.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -929,7 +929,7 @@ img.shape-bottom {
 }
 
 .footer-area{
-    background-image: url(assets/images/banner-item.jpg);
+    background-image: url(https://makepositive.com/wp-content/uploads/2022/03/banner-item.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -1034,6 +1034,14 @@ background: linear-gradient(90deg, rgba(237,30,121,1) 0%, rgba(102,45,145,1) 100
 }
 .header-area{
     border-bottom: solid 10px #ed1e79;
+}
+.mainmenu li:first-child{
+    font-weight: bold;
+    color: #ed1e79 !important;
+    text-decoration: underline;
+}
+.mainmenu li:first-child a{
+    color: #ed1e79 !important;
 }
 @-webkit-keyframes sk-rotateplane {
   0% { -webkit-transform: perspective(120px) }
